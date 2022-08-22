@@ -11,4 +11,4 @@ affected:
   - Storage
 severity: down
 ---
-All services will be suspended while operations are migrated to a new datacenter.
+Beauflix will be entering a maintenance window on Thu 8/25 0:00 UTC through approximately Wed 9/7 for a datacenter migration.
