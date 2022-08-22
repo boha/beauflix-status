@@ -40,11 +40,11 @@ params:
     - name: Gateway
       category: Primary Datacenter
     - name: Media Services
-      description: Media applications
+      description: ""
       category: Primary Datacenter
       link: https://example.com/
     - name: Storage
-      description: Media storage services
+      description: ""
       category: Primary Datacenter
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#f44d2d"
