@@ -39,7 +39,7 @@ params:
   systems:
     - name: Gateway
       category: Primary Datacenter
-    - name: Media Services
+    - name: Applications
       description: ""
       category: Primary Datacenter
       link: https://example.com/
