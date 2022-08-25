@@ -9,7 +9,7 @@ pin: true
 resolvedWhen: 2022-09-08T00:00:13.139Z
 affected:
   - Gateway
-  - MediaServices
+  - Applications
   - Storage
 severity: down
 ---
