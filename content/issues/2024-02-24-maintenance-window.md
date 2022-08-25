@@ -1,8 +1,8 @@
 ---
 section: issue
-title: Maintenance Window
+title: Extended Maintenance Window
 date: 2022-08-25T00:00:00.000Z
-informational: true
+informational: false
 pin: true
 resolvedWhen: 2022-09-08T00:00:27.078Z
 affected:
@@ -11,4 +11,4 @@ affected:
   - Storage
 severity: down
 ---
-Beauflix will be entering a maintenance window on Thu 8/25 0:00 UTC through approximately Wed 9/7 for a datacenter migration.
+Beauflix is in an extended maintenance window from Thu 8/25 0:00 UTC through approximately Wed 9/7 for a datacenter migration.
