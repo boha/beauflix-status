@@ -65,7 +65,6 @@ params:
     - name: Primary Datacenter
       description: The main servers are located here.
       closed: true
-    - name: Empty Category
     - name: Uncategorized
       untitled: true
   description: No guarantees, baby
