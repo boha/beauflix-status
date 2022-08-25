@@ -40,9 +40,8 @@ params:
     - name: Gateway
       category: Primary Datacenter
     - name: Applications
-      description: ""
+      description: "Media services via Plex"
       category: Primary Datacenter
-      link: https://example.com/
     - name: Storage
       description: ""
       category: Primary Datacenter
