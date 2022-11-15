@@ -2,10 +2,10 @@
 section: issue
 title: Intermittent Network Issues
 date: 2022-11-12T22:00:00.000Z
-resolved: false
+resolved: true
 draft: false
 informational: false
-pin: true
+pin: false
 resolvedWhen: ""
 affected:
   - Applications
