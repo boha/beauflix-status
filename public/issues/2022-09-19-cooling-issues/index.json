@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Cooling Issues",
+  "body": "\u003cp\u003eThe heat wave passed. It\u0026rsquo;s cooler in the rack now.\u003c/p\u003e\n\u003cp\u003e~~~\u003c/p\u003e\n\u003cp\u003eCooling issues are preventing storage services from running 24/7. Beauflix services are down while solutions are being explored.\u003c/p\u003e\n",
+  "createdAt": "2022-09-18 04:00:44.415 +0000 UTC",
+  "lastMod": "2022-11-13 18:40:30 +0000 +0000",
+  "permalink": "http://localhost:1313/issues/2022-09-19-cooling-issues/",
+  "severity": "down",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2022-10-25T07:00:00.000Z",
+  "affected": ["Storage"],
+  "filename": "2022-09-19-cooling-issues.md"
+}

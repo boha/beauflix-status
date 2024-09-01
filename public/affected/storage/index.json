@@ -1,0 +1,41 @@
+{
+  "is": "system",
+  "title": "Storage",
+  "permalink": "http://localhost:1313/affected/storage/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Cooling Issues",
+        "createdAt": "2022-09-18 04:00:44.415 +0000 UTC",
+        "lastMod": "2022-11-13 18:40:30 +0000 +0000",
+        "permalink": "http://localhost:1313/issues/2022-09-19-cooling-issues/",
+        "severity": "down",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2022-10-25T07:00:00.000Z",
+        "affected": ["Storage"],
+        "filename": "2022-09-19-cooling-issues.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Extended Maintenance Window",
+        "createdAt": "2022-08-25 00:00:13.13 +0000 UTC",
+        "lastMod": "2022-09-17 06:27:00 +0000 +0000",
+        "permalink": "http://localhost:1313/issues/2022-08-25-extended-maintenance-window/",
+        "severity": "down",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2022-09-17T05:00:13.139Z",
+        "affected": ["Gateway", "Applications", "Storage"],
+        "filename": "2022-08-25-extended-maintenance-window.md"
+      }
+    
+  ]
+}
+
+
+
+
+
